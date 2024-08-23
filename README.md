@@ -41,14 +41,15 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="flex: 1; text-align: center;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
+    <div style="flex: 1; margin-right: 10px;">
         <img src="https://github-readme-stats.vercel.app/api?username=arthurfreddo&show_icons=true&theme=radical" alt="Arthur's GitHub stats" style="max-width: 100%;">
     </div>
-    <div style="flex: 1; text-align: center;">
+    <div style="flex: 1; margin-left: 10px;">
         <img src="https://media.giphy.com/media/WlNLukEnQOYEA9ZwdS/giphy-downsized.gif" alt="Anime Coding Gif" style="max-width: 100%;">
     </div>
 </div>
+
 
 ---
 
