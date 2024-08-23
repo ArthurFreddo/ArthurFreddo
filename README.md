@@ -34,5 +34,9 @@
 
 ### Connect with Me:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-freddo)](https://www.linkedin.com/in/arthur-freddo)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ArthurFredddo@gmail.com)](mailto:ArthurFredddo@gmail.com)
+<a href="https://www.linkedin.com/in/arthur-freddo-631304237/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ArthurFredddo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+</a>
