@@ -6,8 +6,8 @@
 ### About Me:
 
 - 🔭 I am currently working at **StarApp Sistemas**
-- 🌱 Currently learning **Node.js** with **Typescript**
-- 🎓 Final year of **Computer Engineering** at **Unoesc**
+- 🌱 I am currently learning **Node.js** with **Typescript**
+- 🎓 I am in the final year of **Computer Engineering** at **Unoesc**
 - 📫 How to reach me: ArthurFredddo@gmail.com
 
 ---
@@ -18,17 +18,36 @@
 
 ---
 
-### Tech Stack:
+### 💼 Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 📜 Certifications:
+
+- 🖥️ **Suporte e Manutenção de Microcomputadores e Redes Locais** - SENAI
+- 🌐 **IT Essentials** - Cisco Networking Academy (monitored by SENAI)
+
+---
+
+### 🌍 Languages:
+
+- 🇧🇷 **Portuguese**: Fluent
+- 🇺🇸 **English**: Good command (not fluent)
+- 💻 **JavaScript**: Good command
 
 ---
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurfreddo&show_icons=true&theme=radical)
-
 ![Anime Coding Gif](https://media.giphy.com/media/WlNLukEnQOYEA9ZwdS/giphy-downsized.gif)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=arthurfreddo&color=brightgreen)
 
 ---
 
