@@ -38,7 +38,6 @@
 
 - 🇧🇷 **Portuguese**: Fluent
 - 🇺🇸 **English**: Good command (not fluent)
-- 💻 **JavaScript**: Good command
 
 ---
 
