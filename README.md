@@ -41,14 +41,16 @@
 
 ---
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
-    <div style="flex: 1; margin-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=arthurfreddo&show_icons=true&theme=radical" alt="Arthur's GitHub stats" style="max-width: 100%;">
-    </div>
-    <div style="flex: 1; margin-left: 10px;">
-        <img src="https://media.giphy.com/media/WlNLukEnQOYEA9ZwdS/giphy-downsized.gif" alt="Anime Coding Gif" style="max-width: 100%;">
-    </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=arthurfreddo&show_icons=true&theme=radical" alt="Arthur's GitHub stats" style="max-width: 100%;">
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/WlNLukEnQOYEA9ZwdS/giphy-downsized.gif" alt="Anime Coding Gif" style="max-width: 100%;">
+    </td>
+  </tr>
+</table>
 
 
 ---
