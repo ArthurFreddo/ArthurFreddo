@@ -6,8 +6,8 @@
 ### About Me:
 
 - 🔭 I am currently working at **StarApp Sistemas**
-- 🌱 I am currently learning **Node.js** with **Typescript**
-- 🎓 I am in the final year of **Computer Engineering** at **Unoesc**
+- 🌱 Currently learning **Node.js** with **Typescript**
+- 🎓 Final year of **Computer Engineering** at **Unoesc**
 - 📫 How to reach me: ArthurFredddo@gmail.com
 
 ---
@@ -28,7 +28,7 @@
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurfreddo&show_icons=true&theme=radical)
 
-![Coding Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Anime Coding Gif](https://media.giphy.com/media/3oKIPa2TdahY8KYQhC/giphy.gif)
 
 ---
 
