@@ -29,8 +29,8 @@
 
 ### 📜 Certifications:
 
-- 🖥️ **Suporte e Manutenção de Microcomputadores e Redes Locais** - SENAI
-- 🌐 **IT Essentials** - Cisco Networking Academy (monitored by SENAI)
+- 🖥️ **Suporte e Manutenção de Microcomputadores e Redes Locais (2018)** - SENAI
+- 🌐 **PC Hardware and Software (2018)** - Cisco Netacad IT Essentials (monitored by SENAI)
 
 ---
 
