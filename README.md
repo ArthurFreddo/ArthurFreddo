@@ -28,7 +28,7 @@
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurfreddo&show_icons=true&theme=radical)
 
-![Anime Coding Gif](https://media.giphy.com/media/3oKIPa2TdahY8KYQhC/giphy.gif)
+![Anime Coding Gif]([https://media.giphy.com/media/3oKIPa2TdahY8KYQhC/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ3bzhzMW05dHgzZGp3ZnRvY2wxNHF0ZTBhOWNtZ2M0ZGE4NWFmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WlNLukEnQOYEA9ZwdS/giphy.gif))
 
 ---
 
