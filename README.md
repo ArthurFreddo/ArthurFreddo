@@ -41,8 +41,14 @@
 
 ---
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurfreddo&show_icons=true&theme=radical)
-![Anime Coding Gif](https://media.giphy.com/media/WlNLukEnQOYEA9ZwdS/giphy-downsized.gif)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="flex: 1; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api?username=arthurfreddo&show_icons=true&theme=radical" alt="Arthur's GitHub stats" style="max-width: 100%;">
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="https://media.giphy.com/media/WlNLukEnQOYEA9ZwdS/giphy-downsized.gif" alt="Anime Coding Gif" style="max-width: 100%;">
+    </div>
+</div>
 
 ---
 
