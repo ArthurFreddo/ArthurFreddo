@@ -1,8 +1,12 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/WlNLukEnQOYEA9ZwdS/giphy-downsized.gif" width="50px"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTM2M2E1ZWpuZXBpMTNtaXhyb295YXg4cjd5ZzVwNzI2c2lhZmNlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p3hZ9G4dzau3BvEdzi/giphy.gif" width="100px" />
   𝐇𝐞𝐥𝐥𝐨, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!
-  <img src="https://media.giphy.com/media/WlNLukEnQOYEA9ZwdS/giphy-downsized.gif" width="50px" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnh0OThnYmFud3E3cDVsM21oYjZ3aHpoZ3NlNGxiOGt5bHo1bWN4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nIEXhuza7ZP9Jssf3O/giphy.gif" width="100px" />
 </h1>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWkycGpsaHA1M3AxMHBkNTFsYmYzaXAyeHpqeTE4c28xdzRhc3ZqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/31ZiEo6UeSyMbuzkcE/giphy.gif" width="600px"/>
+</p>
 
 ---
 
@@ -50,6 +54,10 @@
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=arthurfreddo&show_icons=true&theme=radical" alt="Arthur's GitHub stats" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurfreddo&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WlNLukEnQOYEA9ZwdS/giphy-downsized.gif" width="300px" />
 </p>
 
 ---
