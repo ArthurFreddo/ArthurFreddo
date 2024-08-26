@@ -52,6 +52,10 @@
   </tr>
 </table>
 
+---
+
+### Snake Eating my Contributions
+![Snake animation](https://github.com/ArthurFreddo/ArthurFreddo/blob/output/snake.svg)
 
 ---
 
