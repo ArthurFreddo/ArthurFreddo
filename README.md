@@ -1,5 +1,8 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Arthur Freddo!
+<h1 align="center">
+  <img src="https://media.giphy.com/media/WlNLukEnQOYEA9ZwdS/giphy-downsized.gif" width="50px"/>
+  𝐇𝐞𝐥𝐥𝐨, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!
+  <img src="https://media.giphy.com/media/WlNLukEnQOYEA9ZwdS/giphy-downsized.gif" width="50px" />
+</h1>
 
 ---
 
@@ -19,11 +22,13 @@
 ---
 
 ### 💼 Tech Stack:
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <code><img height="40" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+  <code><img height="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+  <code><img height="40" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
+  <code><img height="40" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></code>
+  <code><img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
+</p>
 
 ---
 
@@ -41,33 +46,32 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=arthurfreddo&show_icons=true&theme=radical" alt="Arthur's GitHub stats" style="max-width: 100%;">
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/WlNLukEnQOYEA9ZwdS/giphy-downsized.gif" alt="Anime Coding Gif" style="max-width: 100%;">
-    </td>
-  </tr>
-</table>
+### My GitHub Stats & Projects
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=arthurfreddo&show_icons=true&theme=radical" alt="Arthur's GitHub stats" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurfreddo&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### Snake Eating my Contributions
-![Snake animation](https://github.com/ArthurFreddo/ArthurFreddo/blob/output/snake.svg)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=arthurfreddo&color=brightgreen)
+<p align="center">
+  <img src="https://github.com/ArthurFreddo/ArthurFreddo/blob/output/snake.svg" alt="Snake animation"/>
+</p>
 
 ---
 
 ### Connect with Me:
 
-<a href="https://www.linkedin.com/in/arthur-freddo-631304237/" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/arthur-freddo-631304237/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ArthurFredddo@gmail.com" target="_blank">
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ArthurFredddo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
-</a>
+  </a>
+</p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=arthurfreddo&color=brightgreen)
