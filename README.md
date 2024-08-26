@@ -1,8 +1,10 @@
-<h1 align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTM2M2E1ZWpuZXBpMTNtaXhyb295YXg4cjd5ZzVwNzI2c2lhZmNlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p3hZ9G4dzau3BvEdzi/giphy.gif" width="100px" />
-  𝐇𝐞𝐥𝐥𝐨, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnh0OThnYmFud3E3cDVsM21oYjZ3aHpoZ3NlNGxiOGt5bHo1bWN4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nIEXhuza7ZP9Jssf3O/giphy.gif" width="100px" />
-</h1>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTM2M2E1ZWpuZXBpMTNtaXhyb295YXg4cjd5ZzVwNzI2c2lhZmNlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p3hZ9G4dzau3BvEdzi/giphy.gif" width="100px"/></td>
+    <td align="center"><h1>𝐇𝐞𝐥𝐥𝐨, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!</h1></td>
+    <td align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnh0OThnYmFud3E3cDVsM21oYjZ3aHpoZ3NlNGxiOGt5bHo1bWN4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nIEXhuza7ZP9Jssf3O/giphy.gif" width="100px"/></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWkycGpsaHA1M3AxMHBkNTFsYmYzaXAyeHpqeTE4c28xdzRhc3ZqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/31ZiEo6UeSyMbuzkcE/giphy.gif" width="600px"/>
