@@ -5,7 +5,7 @@
       <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ArthurFreddo">
       <h1 align="center">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com/?lines=𝐇𝐞𝐥𝐥𝐨,+𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐭𝐨+𝐦𝐲+𝐩𝐫𝐨𝐟𝐢𝐥𝐞!;&center=true&size=25&pause=3000&color=BA55D3">
+          <img src="https://readme-typing-svg.herokuapp.com/?lines=𝐇𝐞𝐥𝐥𝐨,+𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐭𝐨+𝐦𝐲+𝐩𝐫𝐨𝐟𝐢𝐥𝐞!;&center=true&size=25&pause=3000&color=BA55D3&width=500">
         </a>
       </h1>
     </td>
@@ -47,6 +47,9 @@
   <code><img height="40" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></code>
   <code><img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
   <code><img height="40" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></code>
+  <code><img height="40" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></code>
+  <code><img height="40" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></code>
+  <code><img height="40" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></code>
 </p>
 
 ---
