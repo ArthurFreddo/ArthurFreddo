@@ -5,7 +5,7 @@
       <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ArthurFreddo">
       <h1 align="center">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com/?lines=𝐇𝐞𝐥𝐥𝐨,+𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐭𝐨+𝐦𝐲+𝐩𝐫𝐨𝐟𝐢𝐥𝐞!;&center=true&size=25&pause=3000&color=BA55D3&width=500">
+          <img src="https://readme-typing-svg.herokuapp.com/?lines=𝐇𝐞𝐥𝐥𝐨,+𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐭𝐨+𝐦𝐲+𝐩𝐫𝐨𝐟𝐢𝐥𝐞!;&center=true&size=25&pause=3000&color=BA55D3&width=600">
         </a>
       </h1>
     </td>
