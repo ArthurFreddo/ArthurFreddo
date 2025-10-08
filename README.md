@@ -4,8 +4,8 @@
     <td align="center">
       <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ArthurFreddo">
       <h1 align="center">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com/?lines=𝐇𝐞𝐥𝐥𝐨,+𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐭𝐨+𝐦𝐲+𝐩𝐫𝐨𝐟𝐢𝐥𝐞!;&center=true&size=25&pause=3000&color=BA55D3&width=600">
+        <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&vCenter=true&color=BA55D3&width=600&lines=𝐇𝐞𝐥𝐥𝐨,+𝐰𝐞𝐥𝐜𝐨𝐦𝐞+𝐭𝐨+𝐦𝐲+𝐩𝐫𝐨𝐟𝐢𝐥𝐞!;𝐈'𝐦+𝐀𝐫𝐭𝐡𝐮𝐫+𝐅𝐫𝐞𝐝𝐝𝐨,+𝐚+𝐝𝐞𝐯+𝐟𝐫𝐨𝐦+𝐁𝐫𝐚𝐳𝐢𝐥!" alt="Typing SVG">
         </a>
       </h1>
     </td>
@@ -21,17 +21,17 @@
 
 ### 📫 How to reach me:
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ArthurFredddo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge" height="30px">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arthurfredddo@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" height="30px">
   </a>
-  <a href="https://www.linkedin.com/in/arthur-freddo-631304237/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" height="30px">
+  <a href="https://www.linkedin.com/in/arthur-freddo-631304237/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30px">
   </a>
 </p>
 
 ---
 
-### About Me:
+### 👨‍💻 About Me:
 
 - 🔭 I am currently working at **StarApp Sistemas**
 - 🌱 I am currently learning **Node.js** with **Typescript**
