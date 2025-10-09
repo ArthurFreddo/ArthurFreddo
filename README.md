@@ -1,22 +1,19 @@
 <table align="center">
   <tr>
-    <td align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTM2M2E1ZWpuZXBpMTNtaXhyb295YXg4cjd5ZzVwNzI2c2lhZmNlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p3hZ9G4dzau3BvEdzi/giphy.gif" width="100px"/></td>
     <td align="center">
-      <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ArthurFreddo">
-      <h1 align="center">
-        <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&vCenter=true&color=BA55D3&width=600&lines=𝐇𝐞𝐥𝐥𝐨,+𝐰𝐞𝐥𝐜𝐨𝐦𝐞+𝐭𝐨+𝐦𝐲+𝐩𝐫𝐨𝐟𝐢𝐥𝐞!;𝐈'𝐦+𝐀𝐫𝐭𝐡𝐮𝐫+𝐅𝐫𝐞𝐝𝐝𝐨,+𝐚+𝐝𝐞𝐯+𝐟𝐫𝐨𝐦+𝐁𝐫𝐚𝐳𝐢𝐥!" alt="Typing SVG">
-        </a>
-      </h1>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTM2M2E1ZWpuZXBpMTNtaXhyb295YXg4cjd5ZzVwNzI2c2lhZmNlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p3hZ9G4dzau3BvEdzi/giphy.gif" width="100px"/>
     </td>
-    <td align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnh0OThnYmFud3E3cDVsM21oYjZ3aHpoZ3NlNGxiOGt5bHo1bWN4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nIEXhuza7ZP9Jssf3O/giphy.gif" width="100px"/></td>
+    <td align="center" style="padding:0 20px;">
+      <p align="right" style="margin:0;">
+      </p>
+      <img src="https://readme-typing-svg.vercel.app?font=Monok+Code&size=28&pause=2000&center=true&vCenter=true&color=BA55D3&width=600&lines=𝐇𝐞𝐥𝐥𝐨,+𝐰𝐞𝐥𝐜𝐨𝐦𝐞+𝐭𝐨+𝐦𝐲+𝐩𝐫𝐨𝐟𝐢𝐥𝐞!;𝐈'𝐦+𝐀𝐫𝐭𝐡𝐮𝐫+𝐅𝐫𝐞𝐝𝐝𝐨,+𝐚+𝐝𝐞𝐯+𝐟𝐫𝐨𝐦+𝐁𝐫𝐚𝐳𝐢𝐥!" alt="Typing SVG"/>
+    </td>
+    <td align="center">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnh0OThnYmFud3E3cDVsM21oYjZ3aHpoZ3NlNGxiOGt5bHo1bWN4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nIEXhuza7ZP9Jssf3O/giphy.gif" width="100px"/>
+    </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWkycGpsaHA1M3AxMHBkNTFsYmYzaXAyeHpqeTE4c28xdzRhc3ZqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/31ZiEo6UeSyMbuzkcE/giphy.gif" width="600px"/>
-</p>
-
+        
 ---
 
 ### 📫 How to reach me:
@@ -54,11 +51,12 @@
 
 ---
 
-### My GitHub Stats & Projects
+<h3>📊 My GitHub Stats & Projects</h3>
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=arthurfreddo&show_icons=true&theme=radical" alt="Arthur's GitHub stats" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurfreddo&theme=radical" alt="GitHub Streak" />
+  <img height="300" src="https://github-readme-stats.vercel.app/api?username=arthurfreddo&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img height="300" src="https://streak-stats.demolab.com?user=arthurfreddo&theme=radical&cache_seconds=1800" />
 </p>
+
 
 ---
 
@@ -68,6 +66,10 @@
 
 <p align="center">
   <img src="https://github.com/ArthurFreddo/ArthurFreddo/blob/output/snake.svg" alt="Snake animation"/>
+</p>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=ArthurFreddo&label=Profile%20views&color=8b5cf6&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
