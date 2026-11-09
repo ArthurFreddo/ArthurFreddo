@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title description">
+  <title id="title">Arthur Freddo's GitHub Stats</title>
+  <desc id="description">See the GitHub profile for the latest public activity.</desc>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="5" fill="#141321" stroke="#e4e2e2"/>
+  <g font-family="system-ui, sans-serif" text-anchor="middle">
+    <text x="247.5" y="83" fill="#fe428e" font-size="23" font-weight="700">Arthur Freddo’s GitHub Stats</text>
+    <text x="247.5" y="115" fill="#a9fef7" font-size="15">See the GitHub profile for the latest public activity.</text>
+  </g>
+</svg>
