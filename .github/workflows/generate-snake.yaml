@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - .github/workflows/generate-snake.yaml
+      - .github/scripts/render-profile-stats.py
 
 concurrency:
   group: profile-images
@@ -26,12 +27,10 @@ jobs:
         with:
           ref: main
 
-      - name: Generate GitHub stats
-        uses: stats-organization/github-readme-stats-action@d82657a0e215a28ec48bfc9b3987999a279f93be # v1.2.0
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&card_width=495
-          path: generated/stats.svg
+      - name: Generate public GitHub stats
+        env:
+          PROFILE_USERNAME: ${{ github.repository_owner }}
+        run: python3 .github/scripts/render-profile-stats.py "$PROFILE_USERNAME" generated/stats.svg
 
       - name: Generate contribution streak
         uses: DenverCoder1/github-readme-streak-stats@125aaaf200620410446ebfa51897fca3607e04fd # v1.8.2
@@ -45,7 +44,7 @@ jobs:
           import xml.etree.ElementTree as ET
 
           expected_labels = {
-              "generated/stats.svg": ("Total Stars", "Total Commits", "Total PRs"),
+              "generated/stats.svg": ("Public Repositories", "Stars Earned", "Followers"),
               "generated/streak.svg": ("Total Contributions", "Current Streak", "Longest Streak"),
           }
           for path, labels in expected_labels.items():
