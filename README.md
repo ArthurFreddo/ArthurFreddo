@@ -52,8 +52,8 @@
 ### 📊 My GitHub Stats & Projects
 
 <p align="center">
-  <img width="48%" src="./profile/stats.svg" alt="Arthur Freddo's public GitHub statistics" />
-  <img width="48%" src="./profile/streak.svg" alt="Arthur Freddo's GitHub contribution streak" />
+  <img width="48%" src="https://raw.githubusercontent.com/ArthurFreddo/ArthurFreddo/refs/heads/main/profile/stats.svg" alt="Arthur Freddo's public GitHub statistics" />
+  <img width="48%" src="https://raw.githubusercontent.com/ArthurFreddo/ArthurFreddo/refs/heads/main/profile/streak.svg" alt="Arthur Freddo's GitHub contribution streak" />
 </p>
 
 <p align="center">
